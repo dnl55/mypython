@@ -8,3 +8,5 @@ activate.bat
 Модули python которые использую в этом проекте 
 
 python-telegram-bot
+
+Бот в телеграм  @hybibibot
