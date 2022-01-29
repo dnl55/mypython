@@ -1,0 +1,4 @@
+2022-01-29 21:02:09,425 - INFO - Bot started!
+2022-01-29 21:02:09,427 - INFO - Scheduler started
+2022-01-29 21:02:33,817 - INFO - Received signal 2 (SIGINT), stopping...
+2022-01-29 21:02:33,818 - INFO - Scheduler has been shut down
