@@ -1,0 +1,3 @@
+здесь установлина полная библиотека kivy через
+pip install kivy[full]
+были экспортированы все завичемости с помащью pip freeze > requirements.txt 
